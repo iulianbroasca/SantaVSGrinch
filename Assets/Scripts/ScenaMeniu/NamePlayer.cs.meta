@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 54172ab5ef1c3bb47967992b1f02b6fa
+timeCreated: 1452195400
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - NPlayer: {fileID: 11486946, guid: d85b2913f90c40848b9de4ec7967d6db, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

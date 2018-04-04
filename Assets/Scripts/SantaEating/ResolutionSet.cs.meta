@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 712d369b1548e104c9a4f923f04851d3
+timeCreated: 1452623468
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ScreenSet: {fileID: 11430552, guid: f49a7aa512608f444ab8c591ace5d1af, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
